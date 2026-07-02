@@ -1,16 +1,14 @@
+# Web Development Sandbox 🚀
 
-# Development Course
+This repository contains my core web development projects, architectural logic, and programming exercises. It tracks my technical journey from basic static interfaces to fully integrated web applications.
 
-This repository contains my learning projects and exercises.
+## 🛠️ Technologies Covered
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Backend:** Node.js (Learning in progress)
+* **Programming Languages:** Java
 
-## Technologies
+## 📁 Active Projects
+* **Core Web Features:** Implemented semantic HTML layout structures, responsive styling rules, and basic JavaScript execution.
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Java
-
-## Purpose
-
-To practice and build projects while learning web development and programming.
+## ⚡ Purpose
+To build scalable, real-world programming modules while mastering clean coding practices and software development principles.
