@@ -1,0 +1,31 @@
+td{
+    border: 2px solid skyblue;
+}
+table{
+    border:2px solid seagreen;
+}
+th{
+    border:3px solid salmon
+}
+dd {
+  display: list-item;
+  list-style-type: square; /* Adds a square bullet to the definition */
+  margin-left: 20px;
+}
+dt {
+  float: left;
+  clear: left;
+  width: 100px;
+  font-weight: bold;
+}
+dd {
+  margin-left: 120px;
+}
+dt {
+  background-color: #f0f0f0;
+  padding: 5px;
+}
+dd {
+  margin: 0 0 10px 0;
+  padding: 5px;
+}
